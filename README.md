@@ -1,4 +1,4 @@
-### Hi nerdies 👋
+### Hi nerds 👋
 ![Github stats](https://github-readme-stats.vercel.app/api?username=marsmint)
 
 <!--

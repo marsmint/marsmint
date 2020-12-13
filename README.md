@@ -11,8 +11,8 @@ I am Kriti a final year undergrad in CSE
   <a href="https://www.linkedin.com/in/kriti-tyagi/">
     <img align="left" alt="Kriti Tyagi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kritiityagi/">
-    <img align="left" alt="Kriti Tyagi | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.facebook.com/kritityagi16/">
+    <img align="left" alt="Kriti Tyagi | Facebook" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Faceboo.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:tyagi.kriti@gmail.com">
     <img align="left" alt="Kriti Tyagi | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />

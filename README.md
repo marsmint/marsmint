@@ -5,7 +5,7 @@ I am Kriti a final year undergrad in CSE
 - 👽 Python and C++ are my good friends.
 - 🌠 I also have some experience of backend developement using *PHP* and some front end technologies like *HTML5* and *CSS*.
 - 🌱 Currently learning *every thing that comes my way*
-- 💜 When I am not writing codes in editors and IDEs, I love writing about my days in a diary.
+- 💜 When I'm not writing codes in editors and IDEs, I love writing about my days in a diary.
 
 ### Connect with me
   <a href="https://www.linkedin.com/in/kriti-tyagi/">
